@@ -75,5 +75,7 @@ footer {
     border-radius: 12px;
     box-shadow: 0 4px 8px rgb(red, green, blue);
     margin-top: 20px;
+    height: auto;
+  display: block;
 }
 
